@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+   
+
+#Head{
+    background-color: #212529;
+   padding: 24px 0px;
+   overflow: auto;
+   padding: 20px 4rem;
+}
+.right{
+    float: right;
+}
+.right a{
+    font-size: 20px;
+    font-weight: bold ;
+    color: #fff;
+    text-decoration : none;
+    margin-right: 20px;
+}
+.left a{
+    
+    
+    font-size: 20px;
+    font-weight: bold ;
+    color: #fff;
+    text-decoration : none;
+    margin-left: 20px;
+     
+}
+.BoyPhoto{
+    background-color: #1abc9c;
+    padding: 200px 0px 96px;
+}
+.BoyPhoto h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 2.75rem;
+    line-height: 2.75rem;
+    color: #fff;
+
+}.BoyPhoto p{
+    margin: 20px;
+    text-align: center;
+    color: #fff;
+    font-size: larger;
+}.secondpart h1{
+    text-align: center;
+    color: #2c3e50;
+    padding: 2em;
+}
